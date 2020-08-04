@@ -1,2 +1,2 @@
 chmod 400 ~/dialetics.pem
-ssh -i ~/dialetics.pem ubuntu@ec2-34-212-177-158.us-west-2.compute.amazonaws.com
+ssh -i ~/dialetics.pem ubuntu@54.189.139.178
