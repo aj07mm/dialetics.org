@@ -26,6 +26,7 @@ SECRET_KEY = '!we79*s+-*waxn6a%mq52c3312o=gz-x^6d^cl0qd$5ocy)!ud'
 DEBUG = True
 
 ALLOWED_HOSTS = [
+    "dialetics.org",
     "ec2-34-212-177-158.us-west-2.compute.amazonaws.com",
 ]
 
