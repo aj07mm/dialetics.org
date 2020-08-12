@@ -30,6 +30,7 @@ ALLOWED_HOSTS = [
     "dialetics.org",
     "www.dialetics.org",
     "ec2-34-212-177-158.us-west-2.compute.amazonaws.com",
+    "dialetics-load-balancer-1096320910.us-west-2.elb.amazonaws.com"
 ]
 
 
